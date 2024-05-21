@@ -4,11 +4,11 @@ This repository is a personel documentation of Microsoft Build Challenge: [Accel
 
 ## Description
 
-Build all the skills you need to start coding in the cloud with GitHub Copilot! More than just helping you write code, GitHub Copilot can help you understand code from others, create documentation, debug problems, and upskill in new technologies. Get started and learn how GitHub Copilot helps you focus on innovation and deliver more value in your code!
-
 <div align="center">
   <img height="500" src= "https://learn.microsoft.com/en-us/media/profile/CSCCollectionHeroImage.png?branch=main" />
 </div>
+
+Build all the skills you need to start coding in the cloud with GitHub Copilot! More than just helping you write code, GitHub Copilot can help you understand code from others, create documentation, debug problems, and upskill in new technologies. Get started and learn how GitHub Copilot helps you focus on innovation and deliver more value in your code!
 
 ## Skills Taught
 
