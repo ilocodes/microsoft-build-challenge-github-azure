@@ -21,3 +21,5 @@ GitHub is launching GitHub Copilot for Docs, an experimental tool that uses a ch
 ## Copilot for the command line interface (CLI)
 
 Next to the editor and pull request, the terminal is the place where developers spend the most time. However, even the most proficient developers need to scroll through many pages to remember the precise syntax of many commands. GitHub Copilot CLI can compose commands and loops, and throw around obscure find flags to satisfy your query.
+
+Excerpt taken from [Introduction to Github Copilot](https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot/)
