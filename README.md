@@ -10,13 +10,21 @@ This repository is a journey documentation of Microsoft Build Challenge: [Accele
 
 Build all the skills you need to start coding in the cloud with GitHub Copilot! More than just helping you write code, GitHub Copilot can help you understand code from others, create documentation, debug problems, and upskill in new technologies. Get started and learn how GitHub Copilot helps you focus on innovation and deliver more value in your code!
 
-## Skills Taught
+## Skills Used
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
+
+###
 
 ### Modules
 - [Introduction to Github Copilot](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week%201/how-the-internet-works.md)
