@@ -1,6 +1,6 @@
 # Microsoft Build Challenge: Accelerate Developer Productivity with GitHub and Azure for Developers
 
-This repository is a journey documentation of Microsoft Build Challenge: [Accelerate Developer Productivity with GitHub and Azure for Developers.](https://learn.microsoft.com/en-us/training/challenges?id=4ab7a1b6-fb12-47a2-88ad-2a40c408b253)
+In this repository, i document my journey whilst doing the Microsoft Build Challenge: [Accelerate Developer Productivity with GitHub and Azure for Developers.](https://learn.microsoft.com/en-us/training/challenges?id=4ab7a1b6-fb12-47a2-88ad-2a40c408b253)
 
 ## Description
 
