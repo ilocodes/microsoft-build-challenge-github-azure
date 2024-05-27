@@ -83,3 +83,12 @@ After your project is uploaded, continue to manage it effectively:
 - **Code Reviews**: Use pull requests to review code changes, ensuring code quality and fostering collaboration.
 
 By following these steps, you can successfully prepare and upload your existing project to GitHub, leveraging its powerful features for version control, collaboration, and project management.
+
+## The Github Importer Tool
+
+The GitHub Importer tool allows you to quickly move source code repositories from Subversion, Mercurial, TFVC, or another Git repository to GitHub. It imports commits, revision history, and offers tasks like authentication with the remote repository, updating commit author attribution, handling large files, and using Git Large File Storage.
+
+## Links
+
+- [Ignoring Files](https://help.github.com/en/github/using-git/ignoring-files)
+- [Gitignore repository for popular platforms](https://github.com/github/gitignore)
