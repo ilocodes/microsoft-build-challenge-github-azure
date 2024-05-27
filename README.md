@@ -29,13 +29,13 @@ Build all the skills you need to start coding in the cloud with GitHub Copilot! 
 ###
 
 ### Modules
-- [Introduction to Github Copilot](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week%201/how-the-internet-works.md)
-- [Introduction to prompt engineering with GitHub Copilot](https://github.com/ilocodes/microsoft-build-challenge-github-azure/blob/main/module2/prompt-engineering.md)
-- [Using GitHub Copilot with JavaScript](https://github.com/ilocodes/microsoft-build-challenge-github-azure/edit/main/module3%264/styles.css)
-- [Using GitHub Copilot with Python](https://github.com/ilocodes/microsoft-build-challenge-github-azure/blob/main/module3%264/main.py)
-- [Challenge project - Build a minigame with GitHub Copilot and Python](https://github.com/ilocodes/mslearn-challenge-project-create-mini-game-with-copilot)
-- [Introduction to Github](https://learn.microsoft.com/en-us/training/modules/introduction-to-github/)
-- [Manage an InnerSource program by using Github](https://github.com/ilocodes/microsoft-build-challenge-github-azure/blob/main/module7/innersource-program.md)
-- [Create a open source program by using Github best practices](https://github.com/ilocodes/microsoft-build-challenge-github-azure/blob/main/module8/creating-open-source-program.md)
-- [Upload your project by using Githb best practices](https://github.com/ilocodes/microsoft-build-challenge-github-azure/blob/main/module9/uploading-projects-to-github.md)
+1. [Introduction to Github Copilot](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week%201/how-the-internet-works.md)
+2. [Introduction to prompt engineering with GitHub Copilot](https://github.com/ilocodes/microsoft-build-challenge-github-azure/blob/main/module2/prompt-engineering.md)
+3. [Using GitHub Copilot with JavaScript](https://github.com/ilocodes/microsoft-build-challenge-github-azure/edit/main/module3%264/styles.css)
+4. [Using GitHub Copilot with Python](https://github.com/ilocodes/microsoft-build-challenge-github-azure/blob/main/module3%264/main.py)
+5. [Challenge project - Build a minigame with GitHub Copilot and Python](https://github.com/ilocodes/mslearn-challenge-project-create-mini-game-with-copilot)
+6. [Introduction to Github](https://learn.microsoft.com/en-us/training/modules/introduction-to-github/)
+7. [Manage an InnerSource program by using Github](https://github.com/ilocodes/microsoft-build-challenge-github-azure/blob/main/module7/innersource-program.md)
+8. [Create a open source program by using Github best practices](https://github.com/ilocodes/microsoft-build-challenge-github-azure/blob/main/module8/creating-open-source-program.md)
+9. [Upload your project by using Githb best practices](https://github.com/ilocodes/microsoft-build-challenge-github-azure/blob/main/module9/uploading-projects-to-github.md)
 
