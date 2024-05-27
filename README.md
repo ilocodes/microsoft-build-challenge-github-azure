@@ -36,6 +36,6 @@ Build all the skills you need to start coding in the cloud with GitHub Copilot! 
 - [Challenge project - Build a minigame with GitHub Copilot and Python](https://github.com/ilocodes/mslearn-challenge-project-create-mini-game-with-copilot)
 - [Introduction to Github](https://learn.microsoft.com/en-us/training/modules/introduction-to-github/)
 - [Manage an InnerSource program by using Github](https://github.com/ilocodes/microsoft-build-challenge-github-azure/blob/main/module7/innersource-program.md)
-
-
+- [Create a open source program by using Github best practices](https://github.com/ilocodes/microsoft-build-challenge-github-azure/blob/main/module8/creating-open-source-program.md)
+- [Upload your project by using Githb best practices](https://github.com/ilocodes/microsoft-build-challenge-github-azure/blob/main/module9/uploading-projects-to-github.md)
 
