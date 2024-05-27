@@ -1,11 +1,11 @@
 # Microsoft Build Challenge: Accelerate Developer Productivity with GitHub and Azure for Developers
 
-In this repository, i document my journey whilst doing the Microsoft Build Challenge: [Accelerate Developer Productivity with GitHub and Azure for Developers.](https://learn.microsoft.com/en-us/training/challenges?id=4ab7a1b6-fb12-47a2-88ad-2a40c408b253)
+Explore my journey through the Microsoft Build Challenge: [Accelerate Developer Productivity with GitHub and Azure for Developers.](https://learn.microsoft.com/en-us/training/challenges?id=4ab7a1b6-fb12-47a2-88ad-2a40c408b253) in this repository, where I delve into accelerating developer productivity with the powerful combination of GitHub and Azure. Witness firsthand how I tackle challenges, learn new skills, and implement innovative solutions, all aimed at enhancing the my personal developer experience.
 
 ## Description
 
-<div align="center">
-  <img height="500" src= "https://learn.microsoft.com/en-us/media/profile/CSCCollectionHeroImage.png?branch=main" />
+<div align="left">
+  <img height="300" src= "banner.png" />
 </div>
 
 Build all the skills you need to start coding in the cloud with GitHub Copilot! More than just helping you write code, GitHub Copilot can help you understand code from others, create documentation, debug problems, and upskill in new technologies. Get started and learn how GitHub Copilot helps you focus on innovation and deliver more value in your code!
