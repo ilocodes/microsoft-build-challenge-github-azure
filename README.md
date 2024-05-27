@@ -7,7 +7,7 @@ Explore my journey through the Microsoft Build Challenge: [Accelerate Developer 
 ## Description
 
 <div align="left">
-  <img height="150" src= "banner.png" />
+  <img height="250" src= "banner.png" />
 </div>
 
 Build all the skills you need to start coding in the cloud with GitHub Copilot! More than just helping you write code, GitHub Copilot can help you understand code from others, create documentation, debug problems, and upskill in new technologies. Get started and learn how GitHub Copilot helps you focus on innovation and deliver more value in your code!
