@@ -28,7 +28,7 @@ Build all the skills you need to start coding in the cloud with GitHub Copilot! 
 
 ###
 
-### Modules
+## Modules
 1. [Introduction to Github Copilot](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week%201/how-the-internet-works.md)
 2. [Introduction to prompt engineering with GitHub Copilot](https://github.com/ilocodes/microsoft-build-challenge-github-azure/blob/main/module2/prompt-engineering.md)
 3. [Using GitHub Copilot with JavaScript](https://github.com/ilocodes/microsoft-build-challenge-github-azure/edit/main/module3%264/styles.css)
