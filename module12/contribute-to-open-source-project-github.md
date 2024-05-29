@@ -1,4 +1,4 @@
-# Contibute to Open Source Project on Github
+# Contibute to an Open Source Project on Github
 
 ## Identify and Prepare Contribution:
 - Communicate your intent to participate in a project before doing any actual work. Use the issue tracker unless directed otherwise in the README file.
