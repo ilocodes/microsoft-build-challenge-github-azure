@@ -35,3 +35,6 @@ on:
     gollum
 
 #This event would fire when someone updates (or first creates) a Wiki page.
+
+#External events
+#Events can be on repository_dispatch. That allows events to fire from external systems.
