@@ -1,0 +1,37 @@
+#Scheduled events
+
+on:
+  schedule:
+    - cron: '0 8-17 * * 1-5'
+
+#Explanation: Cron schedules are based on five values:
+
+#Minute (0 - 59)
+#Hour (0 - 23)
+#Day of the month (1 - 31)
+#Month (1 - 12)
+#Day of the week (0 - 6)
+#Aliases for the months are JAN-DEC and for days of the week are SUN-SAT. In the example above, the schedule would be 8 AM - 5 PM Monday to Friday.
+
+#Code events
+#Code events will trigger most actions. It occurs when an event of interest occurs in the repository.
+
+on:
+    pull_request
+
+#The above event would fire when a pull request occurs.
+
+on:
+  pull_request:
+    branches:
+      - develop
+
+#The above event would fire when either a push or a pull request occurs. In this case, it will fire when a pull request is made in the develop branch.
+
+#Manuel Events
+#Webhook Events
+
+on:
+    gollum
+
+#This event would fire when someone updates (or first creates) a Wiki page.
