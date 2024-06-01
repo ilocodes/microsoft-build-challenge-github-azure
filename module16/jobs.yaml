@@ -24,3 +24,5 @@ jobs:
     steps:
 
       - run: ./build_new_server.sh
+
+#If the startup job in the example above fails, the build job won't execute.
