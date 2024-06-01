@@ -1,0 +1,26 @@
+#Jobs with dependencies: by default, if a workflow contains multiple jobs, they run in parallel.
+
+jobs:
+  startup:
+    runs-on: ubuntu-latest
+    steps:
+
+      - run: ./setup_server_configuration.sh
+  build:
+    steps:
+
+      - run: ./build_new_server.sh
+
+#Sometimes you might need one job to wait for another job to complete. You can do that by defining dependencies between the jobs.
+
+jobs:
+  startup:
+    runs-on: ubuntu-latest
+    steps:
+
+      - run: ./setup_server_configuration.sh
+  build:
+    needs: startup
+    steps:
+
+      - run: ./build_new_server.sh
