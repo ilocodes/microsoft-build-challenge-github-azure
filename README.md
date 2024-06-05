@@ -54,3 +54,4 @@ Build all the skills you need to start coding in the cloud with GitHub Copilot! 
 14. [Work with Azure Repos and Github](https://github.com/ilocodes/microsoft-build-challenge-github-azure/blob/main/module15/work-with-azure-repos-and-github.md)
 15. [Introduction to Github Actions](https://github.com/ilocodes/microsoft-build-challenge-github-azure/tree/main/module16)
 16. [Learn continuous integration with GitHub Actions](https://github.com/ilocodes/eShopOnWeb)
+17. [Explore Azure Pipelines](https://github.com/ilocodes/microsoft-build-challenge-github-azure/blob/main/module18/explore-azure-pipelines.md)
