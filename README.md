@@ -46,7 +46,7 @@ Build all the skills you need to start coding in the cloud with GitHub Copilot! 
 6. [Introduction to Github](https://learn.microsoft.com/en-us/training/modules/introduction-to-github/)
 7. [Manage an InnerSource program by using Github](https://github.com/ilocodes/microsoft-build-challenge-github-azure/blob/main/module7/innersource-program.md)
 8. [Create a open source program by using Github best practices](https://github.com/ilocodes/microsoft-build-challenge-github-azure/blob/main/module8/creating-open-source-program.md)
-9. [Upload your project by using Githb best practices](https://github.com/ilocodes/microsoft-build-challenge-github-azure/blob/main/module9/uploading-projects-to-github.md)
+9. [Upload your project by using Github best practices](https://github.com/ilocodes/microsoft-build-challenge-github-azure/blob/main/module9/uploading-projects-to-github.md)
 10. [Migrate your repository by using Github best practices](https://github.com/ilocodes/microsoft-build-challenge-github-azure/blob/main/module10/migrate-your-repository.md)
 11. [Maintain a secure repository by using GitHub best practices](https://github.com/ilocodes/microsoft-build-challenge-github-azure/blob/main/module11/secure-github-repo.md)
 12. [Contibute to an Open Source Project on Github](https://github.com/ilocodes/microsoft-build-challenge-github-azure/blob/main/module12/contribute-to-open-source-project-github.md)
