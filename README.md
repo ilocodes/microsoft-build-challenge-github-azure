@@ -12,7 +12,7 @@ Explore my journey through the Microsoft Build Challenge: [Accelerate Developer 
 
 Build all the skills you need to start coding in the cloud with GitHub Copilot! More than just helping you write code, GitHub Copilot can help you understand code from others, create documentation, debug problems, and upskill in new technologies. Get started and learn how GitHub Copilot helps you focus on innovation and deliver more value in your code!
 
-## Skills Used
+## Skills
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
