@@ -1,6 +1,6 @@
 # Microsoft Build Challenge: Accelerate Developer Productivity with GitHub and Azure for Developers
 
-<img src="https://github.com/ilocodes/microsoft-build-challenge-github-azure/blob/main/MSBuild_Logo.gif?raw=true" width="250" height="250"/>
+<img src="https://github.com/ilocodes/microsoft-build-challenge-github-azure/blob/main/MSBuild_Logo.gif?raw=true" width="250" height="250" />
 
 Explore my journey through the Microsoft Build Challenge: [Accelerate Developer Productivity with GitHub and Azure for Developers.](https://learn.microsoft.com/en-us/training/challenges?id=4ab7a1b6-fb12-47a2-88ad-2a40c408b253) in this repository, where I delve into accelerating developer productivity with the powerful combination of GitHub and Azure. Witness firsthand how I tackle challenges, learn new skills, and implement innovative solutions, all aimed at enhancing the my personal developer experience.
 
@@ -57,3 +57,8 @@ Build all the skills you need to start coding in the cloud with GitHub Copilot! 
 17. [Learn continuous integration with GitHub Actions](https://github.com/ilocodes/eShopOnWeb)
 18. [Explore Azure Pipelines](https://github.com/ilocodes/microsoft-build-challenge-github-azure/blob/main/module18/explore-azure-pipelines.md)
 19. [Create a build pipeline with Azure Pipelines](https://github.com/ilocodes/mslearn-tailspin-spacegame-web)
+
+## Digital Badge
+<div align="left">
+  <img height="175" src= "digital-badge.png" />
+</div>
