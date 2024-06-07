@@ -8,7 +8,7 @@
 
 ###
 
-Explore my journey through the Microsoft Build Challenge: [Accelerate Developer Productivity with GitHub and Azure for Developers.](https://learn.microsoft.com/en-us/training/challenges?id=4ab7a1b6-fb12-47a2-88ad-2a40c408b253) in this repository, where I delve into accelerating developer productivity with the powerful combination of GitHub and Azure. Witness firsthand how I tackle challenges, learn new skills, and implement innovative solutions, all aimed at enhancing the my personal developer experience.
+Explore my journey through the Microsoft Build Challenge: [Accelerate Developer Productivity with GitHub and Azure for Developers](https://learn.microsoft.com/en-us/training/challenges?id=4ab7a1b6-fb12-47a2-88ad-2a40c408b253) in this repository, where I delve into accelerating developer productivity with the powerful combination of GitHub and Azure. Witness firsthand how I tackle challenges, learn new skills, and implement innovative solutions, all aimed at enhancing the my personal developer experience.
 
 ## Description
 
